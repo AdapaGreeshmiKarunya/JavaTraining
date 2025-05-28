@@ -1,4 +1,4 @@
-public class Pattern1 {
+public class PatternA {
     public static void main(String[] args) {
         for(int row=0;row<7;row++)
         {
