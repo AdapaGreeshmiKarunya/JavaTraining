@@ -1,4 +1,4 @@
-public class PatterJ {
+public class PatternJ {
     public static void main(String[] args) {
         for(int row=0;row<7;row++)
         {
