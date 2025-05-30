@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class CountDigit{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int count = 0;
+        /* int count = 0; */
         System.out.print("Enter number: ");
         int number = sc.nextInt();
         System.out.print("Number of Digits in " + number + " is: ");
