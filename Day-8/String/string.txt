@@ -1,0 +1,48 @@
+String: It is a class. It represents a sequence of characters. Java treats strings as objects of the 'String' class rather than as primitive data types.
+
+superclass of subclasses of java - object
+
+Important Methods:
+1.length()
+2.isBlank()
+3.isEmpty()
+
+Comparison Methods:
+1.equals()
+2.equalsIgnoreCase()
+3.CompareTo()
+4.CompareToIgnoreCase()
+5.startsWith(prefix,fromIndex)
+6.endsWith()
+7.contentEquals(charSeq)
+8.contentEquals(StringBuffer)
+9.contains()
+
+Searching Methods:
+1.indexOf("ASCII/Character seq")
+2.indexOf("ASCII/Character seq",from index)
+3.lastIndexOf("ASCII/Character seq", and fromIndex)
+4.substring(BeginIndex,EndIndex)
+5.charAt(index)
+6.subSequence(BeginIndex,EndIndex)
+
+
+1.toLowerCase()
+2.toUpperCase()
+3.length()
+4.trim()
+5.stripLeading()
+6.stripTrailing()
+7.repeat(count)
+8.indent(int)
+9.toCharArray()
+
+Rejects pattern:
+1.matches()
+2.replace()
+3.replaceFirst()
+4.replaceAll()
+5.split()
+6.join()
+
+Q: remove outermost paranthesis

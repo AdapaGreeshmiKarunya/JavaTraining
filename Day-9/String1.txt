@@ -1,0 +1,9 @@
+String - Immutable,StringBuffer,StringBuilder
+when string object needs to be modified very often we should not use string object.
+
+StringBuffer - java.lang- Mutable class - synchronized class
+we cannot make the string literal as mutable by using the StringBuffer.
+StringBuffer sb = "abc";
+
+Synchronized 
+A thread - safe , mutable sequence of characters.
