@@ -7,3 +7,26 @@ StringBuffer sb = "abc";
 
 Synchronized 
 A thread - safe , mutable sequence of characters.
+
+Non- Synchronized
+
+StringBuilder - non synchronized class - java.lang - Mutable Class - JDK 1.5
+A mutable sequence of characters . This class provides an API compatible with StringBuffer, but with no "guarantee of synchronization".
+
+Not Synchronized:
+(Multiple activity)
+
+
+parallel actions
+String Builder is not thread safe all 
+
+
+Questions:
+1. Write a program to check the given Problems string is palindrome or not?
+2. Write a program to Remove outmost Paranthesis?
+3. Write a program to convert String to number? 
+4. Write a program to find the largest Odd number in a string?
+5. anagram 
+"care" "race"
+
+the quick brown fox jumps over the lazy dog

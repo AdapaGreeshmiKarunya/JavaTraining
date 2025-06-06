@@ -1,0 +1,57 @@
+OOPS:
+
+-> Class 
+It is a template or a blueprint
+It is a logical entity
+It is a container
+It is a collection of Object
+It doesnot occupy space
+It defines the variables and methods common to all objects of a certain kind
+When y0u create an object from a class,you are said to have created an instance [object creation] of the class
+Syntax:
+
+class MyClass{
+    //field constructor and method declarations
+}
+
+-> Object 
+It is a combination of states (structure) and behaviours (usage)
+It occupies space
+It is a real time entity
+It is a instance of a class; each object stores about what it current 
+It is a memory reference of class
+
+Variable:
+
+public int sum ( int a , int b ) // method header {
+    //method body method signature
+}
+
+where,
+public = access specifier
+int = return type
+sum = method name
+( int a , int b )= parameter list
+
+
+Modifier                    class   Package     Subclass    World
+                                 (Same package)         (other package)
+public                          y       y         y          y
+protected                       y       y         y          no 
+no Modifier(package private)    y       y         n          no 
+private                         y       n         n          no
+
+Access Modifier /Specifier:
+
+These are the keywords which are used to define the access method class,or a variable
+
+public 
+protected
+no Modifier
+private
+
+to compile:
+javac -d.Filename.java
+
+torun:
+java packagename.classname
