@@ -51,7 +51,9 @@ no Modifier
 private
 
 to compile:
-javac -d.Filename.java
+javac -d . Filename.java
 
 torun:
 java packagename.classname
+
+Q: given string is rotated of another string.

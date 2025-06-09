@@ -1,0 +1,27 @@
+->Interface- 
+set of rules or contract
+in java, an interface is a reference type that defines a set of abstract methods along vth some
+optional constants(static final fields). An interface can also include default methods, static methods, and 
+nested types.
+
+Class: Template
+
+#Interface:
+* By default methods in the interface are abstract
+* By default all methods in the interface are public
+* Do not reduce visibility of the methods
+* private access modifier is not allowed in interface
+* variable(fields or global variable) in the interface are by default final and static
+
+
+global variable/fields/variable--> private, protected modifier not allowed
+
+        Interface:                                                abstract
+
+All methods are abstract till java 8                      one method can be abstract 
+all variables are final and static                        no,not compulsary 
+uses implements keyword                                   uses extends keyword 
+constructor is not possible                               constructor is possible
+
+interface is 100 percent abstrat class or not ? NO 
+can we creatr constructor for class ? NO

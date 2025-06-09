@@ -1,0 +1,28 @@
+KEYWORD:
+"this" keyword in java that refer to the current instance of the class.In OOPS it is used to:
+1. pass the current objects as a parameter to another method
+2. refer to the current class insrance variable
+
+Inheritance:
+It is a process in which one of the object acquires all the properties and behaiours of it parents object automatically.
+You can reuse extend or modify the attributes and behaviour which are defined in other classes
+
+Types:
+1.Single Inheritance - 
+2.Hierarchical Inheritance - I s is defines as the process of deriving more than one class from a base
+3.Multilevel Inheritance - It is a process of deriving a class from another derived class
+4. Hybrid Inheritance - It is a combination of single,multiple & Hierarchical Inheritance
+
+class A                 Class A                         Class A                         Class A         Class B                     Class A 
+    
+    
+
+
+
+Class B                 Class B                 Class B             Class C                      Class C                 Class B             Class C
+
+
+
+
+
+                        Class C                                                                                                     Class D
